@@ -1,8 +1,8 @@
-# 📜 ImageScroll (Affirmations App)
-
 | Nama  | NRP         |
 |--------|------------|
 | Muhammad Hafidz Harridil Mahali | 5025221030 |
+
+# 📜 ImageScroll (Affirmations App)
 
 Aplikasi Android sederhana berbasis Jetpack Compose yang menampilkan daftar afirmasi harian yang dilengkapi dengan gambar inspiratif
 
